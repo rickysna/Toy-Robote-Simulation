@@ -39,7 +39,7 @@ MOVE
 OUTPUT
 ```
 
-you can allow to upload a txt to send a sequence of commands, the [command.txt](https://github.com/rickysna/Toy-Robote-Simulation) should give an example.
+you can allow to upload a txt to send a sequence of commands, the [command.txt](https://github.com/rickysna/Toy-Robote-Simulation/blob/master/commands.txt) should give an example.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
